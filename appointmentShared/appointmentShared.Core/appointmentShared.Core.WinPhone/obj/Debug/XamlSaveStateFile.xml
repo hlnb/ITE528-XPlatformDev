@@ -1,0 +1,15 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\windowsphone\telerik.windows.controls.input.dll" HashGuid="aff79f5e-6d25-8b03-0ea1-b03801401f34" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\windowsphone\telerik.windows.controls.primitives.dll" HashGuid="c8c13d0b-8168-193e-f71c-8b832ba5ffd2" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\windowsphone\telerik.windows.core.dll" HashGuid="240401ba-f9c7-8887-fab7-fb03ef711bad" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\xamarinforms\common\telerik.xamarinforms.common.dll" HashGuid="cf1fe5ba-1f5b-6506-3951-82bd062e0300" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\xamarinforms\common\telerik.xamarinforms.input.dll" HashGuid="4b6fd593-c3fd-5b98-665e-7368d9c970ce" />
+    <ReferenceAssembly PathName="c:\program files (x86)\telerik\ui for xamarin q1 2016\binaries\xamarinforms\windowsphone\telerik.xamarinforms.inputrenderer.winphone.dll" HashGuid="4626cd42-fdcb-5cb3-6141-fa10f78d210a" />
+    <ReferenceAssembly PathName="c:\users\helen\dropbox\masters-study\ite528\projects\appointmentshared\packages\xamarin.forms.2.0.1.6505\lib\wpa81\xamarin.forms.core.dll" HashGuid="81f082c0-b7e7-95b3-a9ed-2e2d9b51621f" />
+    <ReferenceAssembly PathName="c:\users\helen\dropbox\masters-study\ite528\projects\appointmentshared\packages\xamarin.forms.2.0.1.6505\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\helen\dropbox\masters-study\ite528\projects\appointmentshared\packages\xamarin.forms.2.0.1.6505\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="09df3e6d-c8e4-1b3a-9413-ccfd192bf1ff" />
+    <ReferenceAssembly PathName="c:\users\helen\dropbox\masters-study\ite528\projects\appointmentshared\packages\xamarin.forms.2.0.1.6505\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="a9e183e0-7a4a-b12c-d004-86b46135dbe4" />
+    <ReferenceAssembly PathName="c:\users\helen\dropbox\masters-study\ite528\projects\appointmentshared\packages\xamarin.forms.2.0.1.6505\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="3953804c-3f4d-f50e-72fc-d5c6cd693e13" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

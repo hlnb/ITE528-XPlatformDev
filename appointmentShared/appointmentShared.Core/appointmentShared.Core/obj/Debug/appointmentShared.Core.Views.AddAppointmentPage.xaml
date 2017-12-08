@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="appointmentShared.Core.AddAppointmentPage">
+  <StackLayout VerticalOptions="StartAndExpand"> 
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Start:" />
+      <DatePicker x:Name="startDatePicker" HorizontalOptions="StartAndExpand" />
+    </StackLayout>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="End:" />
+      <DatePicker x:Name="endDatePicker" HorizontalOptions="StartAndExpand" />
+    </StackLayout>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Title:" />
+      <Entry x:Name="title" WidthRequest="150" Text="{Binding Path=Title}" Placeholder="Appointment Name"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="All Day:" />
+      <Switch x:Name="allDaySwitch" IsToggled="{Binding Path=IsAllDay)"/>
+    </StackLayout>
+    <Button Text="Save" Clicked="OnSaveActivated" />
+    <Button Text="Delete" Clicked="OnDeleteActivated" />
+    <Button Text="Cancel" Clicked="OnCancelActivated" />
+  </StackLayout>
+</ContentPage>

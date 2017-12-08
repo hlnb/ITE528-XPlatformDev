@@ -1,0 +1,16 @@
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\appointmentShared.Core.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\appointmentShared.Core.pdb
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.Views.appointmentsPage.xaml.g.cs
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.Views.AddAppointmentPage.xaml.g.cs
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.dll
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.pdb
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.csprojResolveAssemblyReference.cache
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.dll.mdb
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\bin\Debug\appointmentShared.Core.dll.mdb

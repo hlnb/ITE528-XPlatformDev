@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:telerik="clr-namespace:Telerik.XamarinForms.Input;assembly=Telerik.XamarinForms.Input"
+             x:Class="appointmentShared.Core.appointmentsPage">
+  <ContentPage.ToolbarItems>
+    <ToolBarItem Name="+" Activated="OnAddAppointmentActivated">
+      <ToolBarItem.Icon>
+        <OnPlatform x:TypeArgument="FileImageSource" Android="plus"/>
+      </ToolBarItem.Icon>
+    </ToolBarItem>
+  </ContentPage.ToolbarItems>
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="*"/>
+      <RowDefinition>
+        <RowDefinition.Height>
+          <OnPlatform x:TypeArguments="GridLength">
+            <OnPlatform.iOS>30</OnPlatform.iOS>
+            <OnPlatform.Android>50</OnPlatform.Android>
+            <OnPlatform.WinPhone>70</OnPlatform.WinPhone>
+          </OnPlatform>
+        </RowDefinition.Height>
+      </RowDefinition>
+    </Grid.RowDefinitions>
+   <telerik:RadCalendar Grid.Row="0" x:Name="calendar" />
+    <ListView x:Name="listView" ItemSelected ="OnItemSelected" Grid.Row="1">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Padding="20,0,0,0" HorizontalOptions="StartAndExpand" Orientation="Horizontal">
+              <Label Text="{Binding StartDate}" YAlign="Center"/>
+              <Label Text="{Binding Title}" YAlign="Center"/>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </Grid>
+</ContentPage>

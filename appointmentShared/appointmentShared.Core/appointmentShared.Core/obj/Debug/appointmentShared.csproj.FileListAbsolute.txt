@@ -1,0 +1,3 @@
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.appointmentsPage.xaml.g.cs
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.AddAppointmentPage.xaml.g.cs
+C:\Users\Helen\Dropbox\Masters-study\ITE528\Projects\appointmentShared\appointmentShared.Core\appointmentShared.Core\obj\Debug\appointmentShared.Core.DeleteAppointmentPage.xaml.g.cs

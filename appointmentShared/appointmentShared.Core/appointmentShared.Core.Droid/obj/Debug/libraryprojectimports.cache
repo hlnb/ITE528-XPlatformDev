@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Input/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Primitives/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.XamarinForms.InputRenderer.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Parse.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Common/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.XamarinForms.InputRenderer.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Parse.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Input.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Primitives.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.XamarinForms.InputRenderer.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Parse.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/heb264/Projects/appointmentShared/appointmentShared.Core/appointmentShared.Core.Droid/obj/Debug/__library_projects__/Telerik.Xamarin.Android.Common.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
