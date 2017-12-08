@@ -3,6 +3,8 @@
 This unit required that we develop a Android & iOS platform applications. 
 ### phoneGap-Todo-V2
 This is app is made with phonegap using HTML/CSS & JavaScript libraries such as jQuery Mobile and Cordova.
+This source code for this app is available at: https://github.com/heb264/ITE528A1.git
+I used Phonegap Build to create the app. It is now out of date.
 
 ### apptSched
 This is the base setup for the Appointment shared application.
